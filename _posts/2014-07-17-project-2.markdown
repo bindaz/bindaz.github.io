@@ -1,11 +1,10 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2024-08-17
 img: cake.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: August 2024
+category: Hardware Development
+description: This Agility Training LED project is powered by an ESP32-S3 and uses ESP-NOW to communicate with multiple LED devices. A trainer taps the lit device to turn it off, which then signals another random LED device to light up. The system is highly programmable, allowing for changes in LED light color and patterns to suit different training purposes. ESP-NOW provides a much better wireless communication range and lower power consumption compared to similar Bluetooth devices on the market. This project will be open-sourced soon.
 ---
