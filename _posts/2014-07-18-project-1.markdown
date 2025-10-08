@@ -8,22 +8,7 @@ project-date: Coming Soon
 client: Self-Published
 category: Technical Writing & Robotics
 description: Technical Writing & Robotics
-description: This upcoming technical book will guide readers from beginner to intermediate level in building a functional robotic arm. It covers everything from fundamental electronics and servo control to advanced robotics concepts like ROS2 and simulation. The book aims to provide hands-on knowledge and practical skills necessary for designing, constructing, and programming a robotic arm.
-
-What You Will Learn:
-
-Content Outline:
-Chapter 1: Introduction to MCU and Servo Control - Understanding the basics of microcontrollers and how to control servos.
-
-Chapter 2: Building a Basic Robotic Arm - Step-by-step instructions for assembling your first robotic arm.
-
-Chapter 3: Enhancing Control and Sensing - Integrating sensors and improving control mechanisms for more precise movements.
-
-Chapter 4: Advanced Control with ROS2 - Diving into the Robot Operating System 2 for sophisticated control and navigation.
-
-Chapter 5: Simulation and Virtual Testing - Utilizing simulation tools like Gazebo for testing and validating your robotic arm's behavior.
-
-Chapter 6: Advanced Topics and Projects - Exploring complex concepts and engaging in advanced robotic arm projects.
+description: This upcoming technical book will guide readers from beginner to intermediate level in building a functional robotic arm. It covers everything from fundamental electronics and servo control to advanced robotics concepts like ROS2 and simulation. The book aims to provide hands-on knowledge and practical skills necessary for designing, constructing, and programming a robotic arm. Introduction to MCU and Servo Control - Understanding the basics of microcontrollers and how to control servos. Building a Basic Robotic Arm - Step-by-step instructions for assembling your first robotic arm. Enhancing Control and Sensing - Integrating sensors and improving control mechanisms for more precise movements. Advanced Control with ROS2 - Diving into the Robot Operating System 2 for sophisticated control and navigation. Simulation and Virtual Testing - Utilizing simulation tools like Gazebo for testing and validating your robotic arm's behavior. Advanced Topics and Projects - Exploring complex concepts and engaging in advanced robotic arm projects.
 
 ---
 
