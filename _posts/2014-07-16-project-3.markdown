@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: circus.png
+date: 2022-04-16
+img: Cyberdog.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: April 2022
+client: Personal Project
+category: Robotics
+description: This project involves the development of CyberDog, a bio-inspired quadruped robot. The project's scope includes the mechanical design, control systems, and simulation. The robot's structure is engineered for agility and dynamic movement, mimicking the locomotion of a real dog. The entire system is simulated and validated using Gazebo, a powerful robotics simulator, to test walking gaits, balance, and environmental interaction before physical implementation.
 ---
