@@ -1,11 +1,15 @@
 ---
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: submarine.png
+date: 2024-07-15
+img: Hairshaver.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: July 2024
+client: For Science! 
+category: IoT
+description: "In a stunning breakthrough of questionable necessity, I present the world's first (and likely only) Matter-controlled hair shaver. Born from a late-night session of 'what if?' and 'should we?', this project answers a question nobody was asking: Can you integrate a complex smart home protocol into something that simply needs an on/off switch? 
+
+ Yes. Yes, you can. 
+
+ This marvel of modern engineering solves the age-old problem of having to physically touch your hair shaver. Perfect for those who value wireless control above all else. Is it the most boring and useless product imaginable? Perhaps. But it is a testament to innovation, proving that with enough dedication, you can make absolutely anything 'smart'."
 ---
