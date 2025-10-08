@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 5
-date: 2014-07-14
+date: 2020-04-14
 img: safe.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: April 2020
+client: Personal Project
+category: 3D Printing
+description: This project focuses on a continuous SLA 3D printing method. It utilizes an LCD screen paired with a 380nm wavelength LED array to cure the polymer. Unlike traditional methods that require a slow delamination process to separate the print from the FEP film, this technique employs a specialized liquid to minimize tension and vacuum forces. This innovation allows for a continuous printing process, achieving speeds up to two times faster than the Formlabs Form 2 machine.
 ---
