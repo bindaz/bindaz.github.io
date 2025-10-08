@@ -2,7 +2,7 @@
 layout: default
 modal-id: 5
 date: 2020-04-14
-img: safe.png
+img: 3DPrint.png
 alt: image-alt
 project-date: April 2020
 client: Personal Project

@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2024-08-17
-img: cake.png
+img: LED.png
 alt: image-alt
 project-date: August 2024
 category: Hardware Development
