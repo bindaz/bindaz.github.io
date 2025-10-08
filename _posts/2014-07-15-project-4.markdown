@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-15
+date: 2025-09-15
 img: game.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: September 2025
+client: Personal Proeject
+catergory: Mobile App Development
+description: Kidio is a family chores and points tracker designed to help children develop good habits, discipline, and financial literacy. Through a points-based reward system, the app manages various aspects of a child's growth, including chores, homework, and extracurricular activities. By completing tasks, children earn points that can be used for rewards, teaching them the value of responsibility and smart money management. The App launch date Nov 2025.
 ---
