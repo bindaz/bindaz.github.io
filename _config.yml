@@ -39,14 +39,8 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: # Add your Twitter URL here
-  - title: facebook
-    url: # Add your Facebook URL here
-  - title: stack-overflow
-    url: # Add your Stack Overflow URL here
-  - title: bitbucket
-    url: # Add your Bitbucket URL here
+  - title: linkedin
+    url: https://www.linkedin.com/in/binda-zhang-p-eng-pmp-20810934/
   - title: github
     url: http://github.com/bindaz
 
